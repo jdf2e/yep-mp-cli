@@ -1,0 +1,34 @@
+{
+	"name": "yep-mp-cli",
+	"version": "1.0.5",
+	"description": "it is a cli for miniprogram component install",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"bin": {
+		"yep-mp-cli": "./src/yep-mp-cli"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/codeSww/yep-mp-cli.git"
+	},
+	"keywords": [
+		"yep",
+		"miniprogram",
+		"cli"
+	],
+	"author": "codeww",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/codeSww/yep-mp-cli/issues"
+	},
+	"homepage": "https://github.com/codeSww/yep-mp-cli#readme",
+	"dependencies": {
+		"commander": "^2.19.0",
+		"cross-spawn": "^6.0.5",
+		"fs": "0.0.1-security",
+		"inquirer": "^6.2.1"
+	},
+	"devDependencies": {}
+}
