@@ -9,7 +9,7 @@ https://www.npmjs.com/package/yep-mp-cli
 ### 使用说明
 1.默认同级目录下存在package.json文件，若该文件不存在，请通过npm init先行初始化安装。
 
-2.如果存在package.json文件，执行安装：
+2.安装：
 
     > npm  install  yep-mp-cli  -g
 
