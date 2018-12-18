@@ -15,7 +15,7 @@ https://www.npmjs.com/package/yep-mp-cli
 
 3.执行：
 
-    >  yep-mp-cli
+    >  yep-mp
 4.操作说明：
 界面如下图所示：
 <image src="http://img30.360buyimg.com/uba/jfs/t1/21973/38/1923/12758/5c189933E92b9e7c9/585f0786079e74ff.png">
